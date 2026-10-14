@@ -11,7 +11,7 @@
 
 </div>
 
-![Карточка расписания](docs/schedule-card.png)
+![Карточка расписания](schedule-card.png)
 
 ## Возможности
 
